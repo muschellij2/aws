@@ -1,5 +1,6 @@
 \documentclass[a4paper]{article}
 
+\usepackage{iftex}
 \usepackage{filecontents}
 
 \begin{filecontents}{aws.bib}
