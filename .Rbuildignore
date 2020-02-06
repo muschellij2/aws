@@ -1,3 +1,4 @@
 ^\.travis\.yml$
 ^aws\.Rproj$
 ^\.Rproj\.user$
+^appveyor\.yml$

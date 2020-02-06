@@ -25,4 +25,6 @@ before_install:
   - fname=travis_helpers.sh
   - wget -O ${fname} http://bit.ly/travis_helpers
   - source ${fname}; rm ${fname}  
+  - sudo tlmgr install iftex ltugboat || true; 
+  - tlmgr install iftex ltugboat || true; 
   - gsl_install 2.1 || true ; # now checking version
