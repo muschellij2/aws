@@ -1,0 +1,2 @@
+#!/bin/sh
+rm -f -r src/*.o src/*.o-* src/*.so

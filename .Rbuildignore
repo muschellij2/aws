@@ -1,1 +1,3 @@
 ^\.travis\.yml$
+^aws\.Rproj$
+^\.Rproj\.user$
